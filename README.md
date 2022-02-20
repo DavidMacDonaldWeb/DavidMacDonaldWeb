@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidMacDonaldWeb
-- 👀 I’m interested in ...Xamarin, Linux,C#, PHP, Apache, JavaScript, CSS, and HTML.
-- 🌱 I’m currently learning ...LAMP, Razor, Android studio, XamarinForms, and JavaScript. 
-- 💞️ I’m looking to collaborate on ...Actually just building a portfolio.
+- I'm interested in mobile development.
+- I have experience in Xamarin, Android and React-Native.
+- Currently in my final year at university and learning more about react-native
 - 📫 How to reach me ... davidscottmacdonald@hotmail.co.uk
 
 <!---
